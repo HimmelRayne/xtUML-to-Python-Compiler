@@ -1,3 +1,5 @@
+Syaiful Amri - 24106050040
+Muhammad Ridwan Kurniawan - 24106050043
 # xtUML Class Diagram Compiler
 
 Compiler sederhana yang menerjemahkan **xtUML Class Diagram dalam bentuk teks** (`.uml`) menjadi **kode Python** (`.py`).
